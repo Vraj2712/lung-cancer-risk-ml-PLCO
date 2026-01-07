@@ -1,7 +1,5 @@
 # Lung Cancer Risk Prediction using Machine Learning (PLCO Dataset)
 
-# Lung Cancer Risk Prediction Using Machine Learning
-
 <!-- 🔰 Add the badges RIGHT HERE -->
 
 <p align="center">
