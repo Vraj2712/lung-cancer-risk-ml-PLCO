@@ -185,7 +185,7 @@ Techniques applied:
 
 The following diagram summarizes the full machine-learning pipeline used in this project:
 
-![Pipeline](images/pipeline_overview.png)
+![Pipeline](results/pipeline_overview.png)
 
 
 ## 🏆 Model Performance (Test Set)
