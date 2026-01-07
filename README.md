@@ -181,12 +181,6 @@ Techniques applied:
 * SHAP explainability
 
 ---
-## 🧭 Project Workflow
-
-The following diagram summarizes the full machine-learning pipeline used in this project:
-
-![Pipeline](results/pipeline_overview.png)
-
 
 ## 🏆 Model Performance (Test Set)
 
