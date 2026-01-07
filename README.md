@@ -1,5 +1,32 @@
 # Lung Cancer Risk Prediction using Machine Learning (PLCO Dataset)
 
+# Lung Cancer Risk Prediction Using Machine Learning
+
+<!-- 🔰 Add the badges RIGHT HERE -->
+
+<p align="center">
+
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue" />
+</a>
+
+<a href="https://opensource.org/licenses/MIT">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+</a>
+
+<img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
+
+<img src="https://img.shields.io/badge/ML-Stacking%20Ensemble-purple" />
+
+<img src="https://img.shields.io/badge/Healthcare-AI-red" />
+
+<img src="https://img.shields.io/github/stars/Vraj2712/lung-cancer-risk-ml-PLCO?style=social" />
+
+</p>
+
+## 📖 Project Overview
+
+
 This project develops machine-learning models to **predict lung cancer risk** using data from the **PLCO Cancer Screening Trial**.
 The goal is to support **early detection and targeted screening** using simple clinical variables rather than invasive testing.
 
